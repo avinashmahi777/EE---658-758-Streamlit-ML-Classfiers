@@ -1,8 +1,11 @@
 # EE-658-758-Streamlit-ML-Classfiers
 In this assignment, you will develop a Python and Streamlit web application that allows users to interact with machine learning models. Your application will enable users to select between two datasets, the IRIS and Digits datasets, choose a machine learning classifier, input feature values, and obtain predictions.
-Streamlit Web Application Assignment 
 
-1. The Entire Web application has python, CSS (for styling)
+### Video Explanation
+[Click Here](https://photos.app.goo.gl/P7w4WiZ5uksExKVz7)
+
+## Application Walkthrough 
+1. The Entire Web application has Python, CSS (for styling)
 
 2. In this application we are going to Build 3 Machine Learning Classifiers 
 					1. Logistic Regression
